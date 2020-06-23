@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="05-zuul" />
+        <module name="06-confg" />
+        <module name="07-consumer" />
+        <module name="08-sleuth" />
+        <module name="09-sleuth-miya" />
+        <module name="eureka.boot" />
+        <module name="feign.boot" />
+        <module name="feign.service" />
+        <module name="hystrix.root" />
+        <module name="hystrix.service" />
+        <module name="ribbon.root" />
+        <module name="ribbon.service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka.common" target="1.7" />
+      <module name="eureka.service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

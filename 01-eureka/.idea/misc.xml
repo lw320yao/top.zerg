@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../02-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/../03-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/../04-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/../05-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../06-confg/pom.xml" />
+        <option value="$PROJECT_DIR$/../07-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../00-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/../09-sleuth-miya/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/eureka.common/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka.service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenServices">
+    <service-url>http://maven.aliyun.com/nexus/content/groups/public/</service-url>
+    <service-url>https://oss.sonatype.org/service/local/</service-url>
+    <service-url>http://repo.jfrog.org/artifactory/api/</service-url>
+    <service-url>https://repository.jboss.org/nexus/service/local/</service-url>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_10" project-jdk-name="10" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

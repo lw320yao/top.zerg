@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: feign
+  cloud:
+    config:
+      uri: http://192.168.0.105:3030/
+      profile: dev
+      label: master
+      name: config-client
