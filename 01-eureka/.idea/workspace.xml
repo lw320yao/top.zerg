@@ -139,7 +139,7 @@
         <entry file="file://$PROJECT_DIR$/../02-ribbon/ribbon.service/src/test/java/top/zerg/ribbon/controller/FastJsonControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -864,7 +864,7 @@
       <workItem from="1591542135034" duration="1176000" />
       <workItem from="1591607038030" duration="3277000" />
       <workItem from="1591882824577" duration="842000" />
-      <workItem from="1592925103619" duration="1167000" />
+      <workItem from="1592925103619" duration="1954000" />
     </task>
     <servers />
   </component>
@@ -901,7 +901,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66678000" />
+    <option name="totallyTimeSpent" value="67465000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -917,7 +917,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="3" visible="true" weight="0.28396946" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.28396946" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -932,10 +932,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37648612" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37648612" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4966975" visible="true" weight="0.3427481" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4966975" visible="true" weight="0.3427481" />
       <window_info anchor="right" id="Bean Validation" order="4" weight="0.32977098" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -1348,7 +1348,7 @@
     <entry file="file://$PROJECT_DIR$/../02-ribbon/ribbon.service/src/test/java/top/zerg/ribbon/controller/FastJsonControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
